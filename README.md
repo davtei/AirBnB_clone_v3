@@ -161,7 +161,7 @@ Second part of Airbnb:
 * Joann Vuong
 
 RESTful API:
-* David Tei - [email](daveteidt@gmail.com)
+* David Tei - [Github](https://github.com/davtei) / [Twitter](https://twitter.com/dtei_dt)
 * Ifeanyi Chukwu
 
 ## License
